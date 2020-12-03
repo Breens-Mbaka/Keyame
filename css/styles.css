@@ -1,4 +1,10 @@
-.column {
-  width: 350px;
+.pictures {
+  width: 350px
+  padding: 10px;
   float: left;
+}
+
+h1,h2 {
+  color: teal;
+  text-align: center;
 }
